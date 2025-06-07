@@ -215,6 +215,6 @@ Feel free to fork this repository, improve the test cases, or add new modules. C
 This project is licensed under the MIT License.
 
 👤 Author
-Your Name
-📧 your.email@example.com
+Gunavanth Kakade G
+📧gunak746@gmail.com
 🔗 LinkedIn
